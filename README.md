@@ -11,7 +11,6 @@ First the json file was imported to mongo via terminal. In the noSQL_setup_start
 The second notebook noSQL_analysis_starter.ipynb contains the exploritory analysis for this assignment. Through this we find the top 5 establishments
 nearest to Penang Flavours. In addition we find how many restaurants in each local authority have a hygiene score of 0. 
 
+All code in the repo not provided in the starter was written by Dianne Etmanski
+
 Thanks for viewing!
-
-
-
